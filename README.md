@@ -1,24 +1,19 @@
-# README
+# Getting Your Feet Wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Project Info
 
-Things you may want to cover:
+- Ruby version 2.4.1
 
-* Ruby version
+- Rails version 5.1.7
 
-* System dependencies
+- Database PostgreSQL
 
-* Configuration
+### About Project
 
-* Database creation
+- Project covers creating, editing and deleting Users and Microposts with reloation one to another, link to live version: https://afternoon-basin-69649.herokuapp.com/
 
-* Database initialization
+### Authors
 
-* How to run the test suite
+- Emir Vatric -- [User Github link](https://github.com/EmirVatric)
+- Muhamed Abdellani -- [User Github link](https://github.com/abdellani)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
