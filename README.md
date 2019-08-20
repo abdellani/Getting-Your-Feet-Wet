@@ -10,7 +10,7 @@
 
 ### About Project
 
-- Project covers creating, editing and deleting Users and Microposts with reloation one to another.
+- Project covers creating, editing and deleting Users and Microposts with reloation one to another, link to live version: https://afternoon-basin-69649.herokuapp.com/
 
 ### Authors
 
